@@ -46,7 +46,7 @@
     "rimraf": "^2.6.2",
     "selenium-standalone": "^6.18.0",
     "ts-node": "^8.0.2",
-    "typescript": "^3.0.1"
+    "typescript": "^4.1"
   },
 
   "dependencies": {
