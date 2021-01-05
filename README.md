@@ -56,11 +56,15 @@ npm install
 
 ```
 npm run webdriver-update
+node node_modules\webdriver-manager update --standalone --ignore_ssl
+npm run webdriver --ignore_ssl
 ``` 
 
 * Then you should start your selenium server!
 ```
 npm run webdriver-start
+npm run webdriver --ignore_ssl
+
 ```
 
 * The below command would create an output folder named 'typeScript' and transpile the .ts files to .js.
